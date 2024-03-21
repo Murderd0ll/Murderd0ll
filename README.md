@@ -2,8 +2,8 @@
 
 
 - 🖥 I’m a Computer Science student (. ❛ ᴗ ❛.)
-- 📝 I’m currently learning> Python, Networking
-- 👻 Fun fact> I love puzzles.
+- 📝 I’m currently learning> Python, Networking (〜￣▽￣)〜
+- 👻 Fun fact> I love puzzles. ผ(•̀_•́ผ)
   
 <h2>--> My tools </h2>
   <p align="center">
