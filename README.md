@@ -8,7 +8,7 @@
 <h2>--> My tools </h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,php,arduino,cs,cpp,mysql,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,php,arduino,cs,cpp,mysql,blender,vscode,visualstudio,robloxstudio" />
   </a>
 </p>
 
